@@ -1,0 +1,24 @@
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\x86\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\x86\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\x86\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\x86\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\x86\Debug\WaveManagerBusiness.pdb

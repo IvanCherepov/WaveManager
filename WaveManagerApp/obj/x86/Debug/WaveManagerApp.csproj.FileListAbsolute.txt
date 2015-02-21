@@ -1,0 +1,41 @@
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerApp.exe.config
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerApp.exe
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerApp.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerUserInterface.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\bin\x86\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.exe.config
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.exe
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.Properties.Resources.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csproj.GenerateResource.Cache
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.exe
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.exe.config
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.exe
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerApp.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.Properties.Resources.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csproj.GenerateResource.Cache
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.exe
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.exe.config
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.exe
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.Properties.Resources.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csproj.GenerateResource.Cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.exe
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.exe.config
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.exe
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerApp.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.Properties.Resources.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.csproj.GenerateResource.Cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.exe
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerApp\obj\x86\Debug\WaveManagerApp.pdb

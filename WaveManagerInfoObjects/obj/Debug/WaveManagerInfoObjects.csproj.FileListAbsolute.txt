@@ -1,0 +1,11 @@
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\bin\Debug\WaveManagerInfoObjects.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\bin\Debug\WaveManagerInfoObjects.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\obj\Debug\WaveManagerInfoObjects.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\obj\Debug\WaveManagerInfoObjects.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\obj\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\bin\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\bin\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\obj\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerInfoObjects\obj\Debug\WaveManagerInfoObjects.pdb

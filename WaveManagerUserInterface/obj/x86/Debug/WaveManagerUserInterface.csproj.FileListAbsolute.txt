@@ -1,0 +1,61 @@
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerUserInterface.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\bin\x86\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.AboutForm.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.FileViewControl.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.GraphViewControl.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MdiChildForm.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.StatusStripControl.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MainForm.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Properties.Resources.resources
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csproj.GenerateResource.Cache
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.dll
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.pdb
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.AboutForm.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.FileViewControl.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.GraphViewControl.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MdiChildForm.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Splash.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.StatusStripControl.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MainForm.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Properties.Resources.resources
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csproj.GenerateResource.Cache
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.dll
+C:\Fotki\prosmotret\BU CS 503\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.AboutForm.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.FileViewControl.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.GraphViewControl.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MdiChildForm.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Splash.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.StatusStripControl.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MainForm.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Properties.Resources.resources
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csproj.GenerateResource.Cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\bin\WaveManagerUserInterface.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.AboutForm.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.FileViewControl.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.GraphViewControl.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MdiChildForm.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Splash.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.StatusStripControl.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.MainForm.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.Properties.Resources.resources
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.csproj.GenerateResource.Cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerUserInterface\obj\x86\Debug\WaveManagerUserInterface.pdb

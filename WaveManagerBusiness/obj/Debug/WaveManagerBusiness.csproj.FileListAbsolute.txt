@@ -1,0 +1,16 @@
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerBusiness.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerInfoObjects.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerInfoObjects.pdb
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.dll
+C:\Fotki\prosmotret\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerInfoObjects.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\bin\Debug\WaveManagerInfoObjects.pdb
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\Final Project Ivan Cherapau\bin\WaveManagerBusiness.pdb
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.csprojResolveAssemblyReference.cache
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.dll
+C:\Evsey\BU CS 503\My projects\Final Project Ivan Cherapau\WaveManagerBusiness\obj\Debug\WaveManagerBusiness.pdb
